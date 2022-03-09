@@ -2,7 +2,7 @@
 
 Name  :  Penumala Sravani - 19pa1a1297
 
-# About The frontend of our bot.
+# About The frontend of Bot.
 * The frontend of mybot is developed by using HTML, CSS, Java Script.
 * In this frontend i had developed game "Guess the number".
 * This game is very interesting and played by so many people.
