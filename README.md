@@ -18,8 +18,8 @@ Name  :  Penumala Sravani - 19pa1a1297
   https://repl.it/join/klxauobh-penumalasravani
   
 # Image of web page:
-  
-  ![imageOfFrontend](https://user-images.githubusercontent.com/72606270/97800229-a91f4d00-1c59-11eb-8efb-2577073b2d62.png)
+  ![number gussing](https://user-images.githubusercontent.com/72606270/157414799-2b838937-d663-4b3b-a7b7-897e0dc7ec16.png)
+
   
 # Github link :
 
