@@ -16,6 +16,7 @@ Name  :  Penumala Sravani - 19pa1a1297
 # repl link for the frontend :
 
   https://repl.it/join/klxauobh-penumalasravani
+  https://lavendertrustydebugging-1.penumalasravani.repl.co/
   
 # Image of web page:
   ![number gussing](https://user-images.githubusercontent.com/72606270/157414799-2b838937-d663-4b3b-a7b7-897e0dc7ec16.png)
@@ -24,6 +25,3 @@ Name  :  Penumala Sravani - 19pa1a1297
 # Github link :
 
   https://github.com/sravani1297/Guess_The_Number
-
-# Youtube Link:
-
