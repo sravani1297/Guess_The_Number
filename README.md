@@ -15,7 +15,6 @@ Name  :  Penumala Sravani - 19pa1a1297
 
 # repl link for the frontend :
 
-  https://repl.it/join/klxauobh-penumalasravani
   https://lavendertrustydebugging-1.penumalasravani.repl.co/
   
 # Image of web page:
